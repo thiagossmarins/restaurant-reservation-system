@@ -4,7 +4,7 @@ Este projeto implementa um sistema de reservas para restaurantes, permitindo que
 
 ## Tecnologias Usadas
 
-- **PHP**: Linguagem principal para o desenvolvimento do backend.
+- **TypeScript**: Linguagem principal para o desenvolvimento do backend.
 - **MySQL**: Banco de dados utilizado para armazenar as informações de usuários, reservas, e restaurantes.
 - **Express**: Framework para o servidor web (caso você decida integrar com algum frontend em Node.js).
 - **Joi**: Para validação de entradas no backend.
